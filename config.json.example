@@ -1,0 +1,15 @@
+{
+  "src": [
+    "WAS",
+    "FRA",
+    "NRT"
+  ],
+  
+  "dst": [
+    "NYC",
+    "LON",
+    "SIN"
+  ],
+
+  "businessClassThreshold": 420
+}
